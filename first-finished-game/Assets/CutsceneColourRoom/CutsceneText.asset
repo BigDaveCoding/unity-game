@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99e51cece88f946d0a967854f411199c, type: 3}
+  m_Name: CutsceneText
+  m_EditorClassIdentifier: 
+  textToDisplay:
+  - Hey you!!
+  - Yeah you, little orange blob thing!
+  - Getting warmer, couple steps to the right :)
+  - Yo! My name is Gazza. You got to help me out orange dude!
+  - The Wizard turned me into a cauldron 200 years ago. I've been stuck here making
+    potions ever since :(
+  - 'You got to help me escape my friend! '
+  - All I need is three flower petals. One Red, One Blue and One Pink.
+  - Damn! I can sense the Wizard is coming. Gotta go my dude, hopefully next time
+    we meet you have those flower petals!
+  - Oh... and I promise I'm totally not evil! You can trust me!

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48d6c644892894b6facc70c542766ab2, type: 3}
+  m_Name: doggoNPCInfo
+  m_EditorClassIdentifier: 
+  npcImage: {fileID: -494997710, guid: 991168a5ca31d469382d6a498c65ce5a, type: 3}
+  npcName: Chiz

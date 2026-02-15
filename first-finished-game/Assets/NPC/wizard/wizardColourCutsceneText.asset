@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99e51cece88f946d0a967854f411199c, type: 3}
+  m_Name: wizardColourCutsceneText
+  m_EditorClassIdentifier: 
+  textToDisplay:
+  - Behold!! It is I, The Wiz!
+  - Yeah I can teleport bitch
+  - Pretty awesome right?! One more for good luck yeah...
+  - Boooooosh so awesome
+  - Anyway... This place could use a bit of a clean. My teleport is not good for
+    dust :'(
+  - BROOOOOOOOM!!!
+  - Ahh, much better :)
+  - Anyway, I heard you talking to Gazza The Cauldron.
+  - You know he's totally evil right... Thats why I turned him into a cauldron in
+    the first place.
+  - Anywaaaaaay, I gotta banish you from my quarters!
+  - Cyaaaaaaaaaa orange blob thing.
